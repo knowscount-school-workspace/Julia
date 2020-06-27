@@ -171,6 +171,6 @@ c.NotebookApp.notebook_dir = '~/Desktop/Programmes/Jupyter'
 
 ---
 
-这篇文章目前在 GitHub 上发布；
+这篇文章目前在 [GitHub](https://github.com/KnowsCount/Julia/blob/master/教程%20Tutorials/Jupyter.md) 上发布；
 
-教学视频目前在 BiliBili 上发布。
+教学视频目前在 [BiliBili](https://space.bilibili.com/498871842) 上发布。
