@@ -36,7 +36,7 @@ pip3 install --upgrade pip
 pip3 install jupyter
 ```
 
-如上两个都是先升级成最高版本的 ```pip``` ，然后安装 ```IPython``` 以及 ```(IPython) notebook``` 。
+如上两个都是先升级成最高版本的 ```pip``` ，然后安装。
 
 ---
 
@@ -85,8 +85,9 @@ jupyter notebook
 若是 ```pip``` 安装的，使用如下指令：
 
 ```bash
-python -m IPython notebook
+jupyter notebook 
 ```
+对，就是一样的。
 
 若是有任何对于 Jupyter 的疑问，可以先执行如下试试看：
 
